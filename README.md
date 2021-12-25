@@ -51,4 +51,4 @@ The initial state is set to `user`.
    
 
 ## Geting start
-   ![](https://i.imgur.com/ZqlQVUJ.png)"# Line_Bot" 
+   ![](https://i.imgur.com/ZqlQVUJ.png) 
